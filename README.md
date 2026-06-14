@@ -4,6 +4,11 @@ AI-Powered Logistics Route Optimization Dashboard
 Delivery Odysseys is a logistics management and fleet monitoring platform designed to simulate real-world delivery operations. The dashboard enables real-time fleet tracking, route visualization, delivery monitoring, and operational analytics through an interactive user interface.
 The project demonstrates concepts in logistics optimization, fleet management systems, geospatial visualization, and dashboard development.
 
+🌐 Live Demo
+
+Netlify Deployment:
+https://delivery-odysseys.netlify.app/
+
 Key Features
 Real-time fleet monitoring dashboard
 Interactive delivery route visualization
